@@ -1,6 +1,7 @@
 <body>
    #Welcome
    <br>
+   Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM), onde busco ampliar meus conhecimentos em desenvolvimento de sistemas voltados para segurança da informação. Junto a isso procuro aquidquir conhecimentos para desenvolvimento web
    
   <h2 style="color: #006400; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;" >Hello! I am Pedro!! :alien: </h2>
   <p> Software Engineering Student :computer:</p>
