@@ -13,7 +13,7 @@
 
    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&theme=algolia&layout=compact)](https://github.com/pedrocarvalhosnk/github-readme-stats)
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocarvalhosn&theme=algoliak&repo=github-readme-stats)](https://github.com/pedrocarvalhosnk/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocarvalhosnk&theme=algolia&repo=github-readme-stats)](https://github.com/pedrocarvalhosnk/github-readme-stats)
   
    
   <h4> About me:  <h4/>
