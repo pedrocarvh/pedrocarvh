@@ -1,10 +1,9 @@
-  #Welcome
-  <br>
-  
-  ![Snake animation](https://github.com/pedrocarvalhosnk/pedrocarvalhosnk/blob/output/github-contribution-grid-snake.svg)
-   
+  <div
+    #Welcome
+    <br>
+ 
   <h2 style="color: #006400; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;" >Hello! I am Pedro!! :alien: </h2>
-  <p> Software Engineering Student :computer:</p>
+    <p> Software Engineering Student :computer:</p>
    
    Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM), onde busco ampliar meus conhecimentos em desenvolvimento de sistemas voltados para segurança da informação. Junto a isso procuro adquirir conhecimentos para desenvolvimento web
    
@@ -21,6 +20,10 @@
       <a href="https://www.linkedin.com/in/pedro-carvalho-almeida-765942208/" alt="Instagram" target="_blank"> 
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
+    
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    
+   </div>
     
 
      
