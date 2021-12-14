@@ -8,12 +8,11 @@
    
    Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM), onde busco ampliar meus conhecimentos em desenvolvimento de sistemas voltados para segurança da informação. Junto a isso procuro adquirir conhecimentos para desenvolvimento web
    
-
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&theme=dark&show_icons=true)
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk)](https://github.com/pedrocarvalhosnk/github-readme-stats)
 
    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&layout=compact)](https://github.com/pedrocarvalhosnk/github-readme-stats)
-   [! [Top Langs]    (https://github-readme-stats.vercel.app/api/top-langs/?Username=pedrocarvalhosnk&layout=compact)](https://github.com/pedrocarvalhosnk/github-readme-stats)
-   
+  
    
   <h4> About me:  <h4/>
      
