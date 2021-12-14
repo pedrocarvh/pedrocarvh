@@ -2,7 +2,7 @@
     #Welcome
     <br>
  
-  <h2 style="color: #006400; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;" >Hello! I am Pedro!! :alien: </h2>
+  <h1 align="center">Hi 👋, I'm Pedro</h1>
     <p> Software Engineering Student :computer:</p>
    
    Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM)
