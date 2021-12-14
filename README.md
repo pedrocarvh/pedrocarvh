@@ -10,7 +10,7 @@
    
    <div>
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&theme=algolia&show_icons=true"/>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&theme=algolia&layout=compact"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&theme=algolia&layout=compact"/>
 
       
    </div>
