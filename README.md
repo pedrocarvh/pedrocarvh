@@ -8,7 +8,7 @@
    
   <div align="center">
       <a href="https://github.com/pedrocarvalhosnk">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&show_icons=true&theme=algolia"/>
+      <img align="center"src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&show_icons=true&theme=algolia"/>
       <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&layout=compact&theme=algolia"/>
   </div>
  
