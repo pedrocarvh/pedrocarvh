@@ -9,7 +9,7 @@
    Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM), onde busco ampliar meus conhecimentos em desenvolvimento de sistemas voltados para segurança da informação. Junto a isso procuro adquirir conhecimentos para desenvolvimento web
   <h4> About me:  <h4/>
      
-     < A  href =" https://github.com/pedrocarvalhosnk/github-readme-stats " > 
+     <A  href ="https://github.com/pedrocarvalhosnk/github-readme-stats" > 
   < img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ? username = pedrocarvalhosnk & repo = github-leia-me-stats "/>
  </ a > 
 < a  href =" https://github.com/pedrocarvalhosnk/convoychat " > 
