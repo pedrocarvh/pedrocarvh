@@ -11,7 +11,7 @@
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&theme=darcula&show_icons=true)
  
 
-   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&layout=compact)](https://github.com/pedrocarvalhosnk/github-readme-stats)
+   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&theme=darcula&layout=compact)](https://github.com/pedrocarvalhosnk/github-readme-stats)
   
    
   <h4> About me:  <h4/>
