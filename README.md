@@ -8,8 +8,8 @@
    
   <div>
       <a href="https://github.com/pedrocarvalhosnk">
-      <img align="center"src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&show_icons=true&theme=algolia"/>
-      <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&layout=compact&theme=algolia"/>
+      <img align="center "src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&show_icons=true&theme=algolia"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&layout=compact&theme=algolia"/>
   </div>
  
   <h4> About me:  <h4/>
