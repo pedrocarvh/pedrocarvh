@@ -5,7 +5,7 @@
   <h2 style="color: #006400; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;" >Hello! I am Pedro!! :alien: </h2>
     <p> Software Engineering Student :computer:</p>
    
-   Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM), onde busco ampliar meus conhecimentos em desenvolvimento de sistemas voltados para segurança da informação. Junto a isso procuro adquirir conhecimentos para desenvolvimento web
+   Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM)
    
   <div height="120em">
       <a href="https://github.com/pedrocarvalhosnk">
