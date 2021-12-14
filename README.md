@@ -9,7 +9,7 @@
   <div align="center">
       <a href="https://github.com/pedrocarvalhosnk">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&layout=compact&langs_count=7&theme=algolia"/>
+      <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&layout=compact&langs_count=7&theme=algolia"/>
   </div>
   
   <h4> About me:  <h4/>
