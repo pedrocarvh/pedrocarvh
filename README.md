@@ -2,7 +2,7 @@
     #Welcome
     <br>
  
-  <h1 align="center">Hi 👋, I'm Pedro</h1>
+  <h1 >Hi 👋, I'm Pedro</h1>
     <p> Software Engineering Student :computer:</p>
    
    Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM)
