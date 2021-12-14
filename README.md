@@ -10,8 +10,8 @@
    
    <div>
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&theme=algolia&show_icons=true"/>
-      <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&theme=algolia&layout=compact"/>
-      <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrocarvalhosnk&theme=algolia&repo=github-readme-stats"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&theme=algolia&layout=compact"/>
+
       
    </div>
    
