@@ -19,6 +19,8 @@
       <a href="https://www.linkedin.com/in/pedro-carvalho-almeida-765942208/" alt="Instagram" target="_blank"> 
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
+    
+    ![Snake animation](https://github.com/pedrocarvalhosnk/pedrocarvalhosnk/blob/output/github-contribution-grid-snake.svg)
      
 
 
