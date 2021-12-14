@@ -8,9 +8,13 @@
    
    Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM), onde busco ampliar meus conhecimentos em desenvolvimento de sistemas voltados para segurança da informação. Junto a isso procuro adquirir conhecimentos para desenvolvimento web
    
+      <div>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&theme=algolia&show_icons=true"/>
+      <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&theme=algolia&layout=compact"/>
 
-  
- 
+      
+   </div>
+   
   <h4> About me:  <h4/>
      
    
