@@ -12,7 +12,7 @@
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk)](https://github.com/pedrocarvalhosnk/github-readme-stats)
 
    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&layout=compact)](https://github.com/pedrocarvalhosnk/github-readme-stats)
-   [! [Top Langs]    (https://github-readme-stats.vercel.app/api/top-langs/?Username= pedrocarvalhosnk & layout = compact )] (https://github.com/anuraghazra/github-readme- Estatísticas)
+   [! [Top Langs]    (https://github-readme-stats.vercel.app/api/top-langs/?Username=pedrocarvalhosnk&layout=compact)](https://github.com/pedrocarvalhosnk/github-readme-stats)
    
    
   <h4> About me:  <h4/>
