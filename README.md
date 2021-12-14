@@ -9,6 +9,8 @@
    Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM), onde busco ampliar meus conhecimentos em desenvolvimento de sistemas voltados para segurança da informação. Junto a isso procuro adquirir conhecimentos para desenvolvimento web
   <h4> About me:  <h4/>
      
+     ! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra & show_icons = true & theme = radical )
+     
   <a href="https://www.instagram.com/pedro_ow/" alt="Instagram" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedro_ow/">
       <a href="https://www.linkedin.com/in/pedro-carvalho-almeida-765942208/" alt="Instagram" target="_blank"> 
