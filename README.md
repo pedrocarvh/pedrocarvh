@@ -8,11 +8,15 @@
    
    Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM), onde busco ampliar meus conhecimentos em desenvolvimento de sistemas voltados para segurança da informação. Junto a isso procuro adquirir conhecimentos para desenvolvimento web
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&theme=algolia&show_icons=true) 
-   ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&theme=algolia&layout=compact)
-   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocarvalhosnk&theme=algolia&repo=github-readme-stats)
-  
+   <div>
+      <img height="120em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&theme=algolia&show_icons=true"/>
+      <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&theme=algolia&layout=compact"/>
+      <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrocarvalhosnk&theme=algolia&repo=github-readme-stats"/>
+      
+   </div>
    
+
+ 
   <h4> About me:  <h4/>
      
    
