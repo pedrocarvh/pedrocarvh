@@ -1,5 +1,7 @@
   #Welcome
   <br>
+  
+  ![Snake animation](https://github.com/pedrocarvalhosnk/pedrocarvalhosnk/blob/output/github-contribution-grid-snake.svg)
    
   <h2 style="color: #006400; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;" >Hello! I am Pedro!! :alien: </h2>
   <p> Software Engineering Student :computer:</p>
@@ -20,7 +22,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
     
-   https://github.com/pedrocarvalhosnk/pedrocarvalhosnk/blob/output/github-contribution-grid-snake.svg
+
      
 
 
