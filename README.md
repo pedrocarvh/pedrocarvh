@@ -9,8 +9,8 @@
    
    <div height="120em">
       <a href="https://github.com/pedrocarvalhosnk">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=demiguic&show_icons=true&theme=midnight-purple"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiguic&langs_count=8&theme=midnight-purple"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&show_icons=true&theme=midnight-purple"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&langs_count=8&theme=midnight-purple"/>
   </div>
  
   <h4> About me:  <h4/>
