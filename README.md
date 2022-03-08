@@ -1,4 +1,4 @@
-  <div
+ <div
     #Welcome
     <br>
  
@@ -7,7 +7,7 @@
    
    Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM)
    
-    <div height="120em">
+   <div height="120em">
       <a href="https://github.com/pedrocarvalhosnk">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&show_icons=true&theme=midnight-purple"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&langs_count=8&theme=midnight-purple"/>
@@ -21,14 +21,13 @@
   </a>
    
   
-   
-  
     
    ![Snake animation](https://github.com/pedrocarvalhosnk/pedrocarvalhosnk/blob/output/github-contribution-grid-snake.svg)
     .
    </div>
     
 
+     
      
 
 
