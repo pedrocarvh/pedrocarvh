@@ -10,8 +10,7 @@
    <div height="120em">
       <a href="https://github.com/pedrocarvalhosnk">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&show_icons=true&theme=codeSTACKr"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&langs_count=8&theme=codeSTACKr"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&theme=dark&show_icons=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&&layout=compact&langs_count=7theme=codeSTACKr"/>
   </div>
  
   <h4> About me:  <h4/>
@@ -22,7 +21,7 @@
   </a>
    
   
-    
+ 
    ![Snake animation](https://github.com/pedrocarvalhosnk/pedrocarvalhosnk/blob/output/github-contribution-grid-snake.svg)
     .
    </div>
