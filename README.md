@@ -11,6 +11,7 @@
       <a href="https://github.com/pedrocarvalhosnk">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&show_icons=true&theme=codeSTACKr"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalhosnk&langs_count=8&theme=codeSTACKr"/>
+      <img height="180em" src="ttps://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&theme=codeSTACKr_icons=true"/>
   </div>
  
   <h4> About me:  <h4/>
