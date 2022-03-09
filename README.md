@@ -4,9 +4,7 @@
  
   <h1 >Hi 👋, I'm Pedro</h1>
     <p> Software Engineering Student :computer:</p>
-   
-   Estudante de Engenharia de Software no Instituto Federal do Amazonas(IFAM)
-   
+  
    <div height="120em">
       <a href="https://github.com/pedrocarvalhosnk">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocarvalhosnk&show_icons=true&theme=codeSTACKr"/>
