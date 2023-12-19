@@ -37,47 +37,14 @@
 <h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Linguagens</th>
-        <th>Frameworks</th>
-        <th>Ferramentas</th>
-        <th>Banco de Dados</th>
-        <th>Ferramentas de Desenvolvimento</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br>
-          <img src="https://skillicons.dev/icons?i=c,java,py" /><br>
-          HTML, CSS, JavaScript, C, Java, Python
-        </td>
-        <td>
-          <img src="https://skillicons.dev/icons?i=nodejs,firebase" /><br>
-          Node.js, Firebase
-        </td>
-        <td>
-          <img src="https://skillicons.dev/icons?i=git,github,bash" /><br>
-          Git, GitHub, Bash
-        </td>
-        <td>
-          <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
-          MySQL, PostgreSQL
-        </td>
-        <td>
-          <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,netlify" /><br>
-          Figma, VSCode, Android Studio, Netlify
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,java,py" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  
+  <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,netlify" /><br>
 </div>
-
-
-
-
 
 <br/>
 <hr/>
@@ -92,7 +59,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Est ⚡</h2>
+<h2 align="center">⚡ Estatísticas ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pedrocarvh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
