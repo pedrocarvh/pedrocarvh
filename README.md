@@ -1,11 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=pedrocarvh" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ola,+Tudo-Bem?+👋;+Eu-sou+Pedro+Carvalho!;" />
-</h1>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá +Tudo-Bem?+👋;+Eu-sou+Pedro+Carvalho!;" />
 </h1>
 
 <h3 align="center">Estudante de Engenharia de Software, apaixonado por tecnologia e inovação💻</h3>
