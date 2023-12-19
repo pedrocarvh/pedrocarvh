@@ -37,12 +37,32 @@
 <h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,py" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,netlify" /><br>
+  <table>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,py" /><br>
+        Linguagens: HTML, CSS, JavaScript, C, Java, Python
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs,firebase" /><br>
+        Frameworks: Node.js, Firebase
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,github,bash" /><br>
+        Ferramentas: Git, GitHub, Bash
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
+        Bancos de Dados: MySQL, PostgreSQL
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,netlify" /><br>
+        Ferramentas de Desenvolvimento: Figma, VSCode, Android Studio, Netlify
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <br/>
 <hr/>
