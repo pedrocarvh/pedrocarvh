@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![NEVER SETTLE](https://img.shields.io/badge/NEVER%20SETTLE-Visit%20Now-blue?style=for-the-badge&logo=appveyor)](https://seusite.com)
+[![NEVER SETTLE](https://img.shields.io/badge/NEVER%20SETTLE-Em%20Breve-blue?style=for-the-badge&logo=appveyor)](https://seusite.com)
 </div>
 
 <br/>
