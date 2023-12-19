@@ -42,9 +42,9 @@
       <tr>
         <th>Linguagens</th>
         <th>Frameworks</th>
-        <th>Versionamento</th>
-        <th>Banco de Dados</th>
         <th>Ferramentas</th>
+        <th>Banco de Dados</th>
+        <th>Ferramentas de Desenvolvimento</th>
       </tr>
     </thead>
     <tbody>
