@@ -57,6 +57,7 @@
   <br/><br/><br/>
 </div>
 
+<hr/>
 
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 <br>
@@ -67,18 +68,15 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pedrocarvh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<br/><br/>
+
 <hr/>
 
 <br/>
 
 <div align="center">
 
-[![NEVER SETTLE](https://img.shields.io/badge/NEVER%20SETTLE-Visit%20Now-blue?style=for-the-badge&logo=appveyor)](https://seusite.com)
+[![NEVER SETTLE](https://img.shields.io/badge/NEVER%20SETTLE-Em%20Breve-blue?style=for-the-badge&logo=appveyor)](https://seusite.com)
 </div>
 
 <br/>
-
-<br/><br/>
-
-
-
