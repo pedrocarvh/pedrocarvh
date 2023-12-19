@@ -37,31 +37,48 @@
 <h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-  <table>
+  <style>
+    .skill-table {
+      border-spacing: 20px; /* Espaçamento entre as células da tabela */
+    }
+
+    .skill-item {
+      text-align: center;
+    }
+
+    .skill-img {
+      width: 64px; /* Defina o tamanho desejado para as imagens */
+      height: 64px;
+      margin-bottom: 5px;
+    }
+  </style>
+
+  <table class="skill-table">
     <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,py" /><br>
+      <td class="skill-item">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,py" class="skill-img" /><br>
         Linguagens: HTML, CSS, JavaScript, C, Java, Python
       </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,firebase" /><br>
+      <td class="skill-item">
+        <img src="https://skillicons.dev/icons?i=nodejs,firebase" class="skill-img" /><br>
         Frameworks: Node.js, Firebase
       </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=git,github,bash" /><br>
+      <td class="skill-item">
+        <img src="https://skillicons.dev/icons?i=git,github,bash" class="skill-img" /><br>
         Ferramentas: Git, GitHub, Bash
       </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
+      <td class="skill-item">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres" class="skill-img" /><br>
         Bancos de Dados: MySQL, PostgreSQL
       </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,netlify" /><br>
+      <td class="skill-item">
+        <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,netlify" class="skill-img" /><br>
         Ferramentas de Desenvolvimento: Figma, VSCode, Android Studio, Netlify
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <br/>
