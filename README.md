@@ -57,6 +57,15 @@
   <br/><br/><br/>
 </div>
 
+<h2 align=">h2>⚡ Estatísticas ⚡</"center
+<br>
+<div alinhar=centro>
+  <img largura="https://github-readme-streak-stats-salesp07.vercel.app/?user=pedrocarvh&count_private=true&theme=react&border_radius=10 "=src"295" =altura"290alt="estatísticas de sequência/>"   
+  <img largura=" />"estatísticas leia-me"=alt"https://github-readme-stats-salesp07.vercel.app/api?username=pedrocarvh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius =10 "=src"295" =altura"290   
+  <br/>
+  <img largura=""< /span> /> "principais idiomas"=althttps://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pedrocarvh& ;hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"=src"centro"=alinhar100""200 altura=   
+</div>
+
 <hr/>
 
 <br/>
