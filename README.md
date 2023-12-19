@@ -50,7 +50,8 @@
     <tbody>
       <tr>
         <td>
-          <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,py" /><br>
+          <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br>
+          <img src="https://skillicons.dev/icons?i=c,java,py" /><br>
           HTML, CSS, JavaScript, C, Java, Python
         </td>
         <td>
