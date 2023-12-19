@@ -44,6 +44,7 @@
 
     .skill-item {
       text-align: center;
+      position: relative;
     }
 
     .skill-img {
@@ -51,33 +52,52 @@
       height: 64px;
       margin-bottom: 5px;
     }
+
+    .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      background-color: rgba(255, 255, 255, 0.8);
+      transition: opacity 0.3s ease-in-out;
+    }
+
+    .skill-item:hover .overlay {
+      opacity: 1;
+    }
   </style>
 
   <table class="skill-table">
     <tr>
       <td class="skill-item">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,py" class="skill-img" /><br>
-        Linguagens: HTML, CSS, JavaScript, C, Java, Python
+        <div class="overlay">Linguagens: HTML, CSS, JavaScript, C, Java, Python</div>
       </td>
       <td class="skill-item">
         <img src="https://skillicons.dev/icons?i=nodejs,firebase" class="skill-img" /><br>
-        Frameworks: Node.js, Firebase
+        <div class="overlay">Frameworks: Node.js, Firebase</div>
       </td>
       <td class="skill-item">
         <img src="https://skillicons.dev/icons?i=git,github,bash" class="skill-img" /><br>
-        Ferramentas: Git, GitHub, Bash
+        <div class="overlay">Ferramentas: Git, GitHub, Bash</div>
       </td>
       <td class="skill-item">
         <img src="https://skillicons.dev/icons?i=mysql,postgres" class="skill-img" /><br>
-        Bancos de Dados: MySQL, PostgreSQL
+        <div class="overlay">Bancos de Dados: MySQL, PostgreSQL</div>
       </td>
       <td class="skill-item">
         <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,netlify" class="skill-img" /><br>
-        Ferramentas de Desenvolvimento: Figma, VSCode, Android Studio, Netlify
+        <div class="overlay">Ferramentas de Desenvolvimento: Figma, VSCode, Android Studio, Netlify</div>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
