@@ -4,10 +4,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/calculator?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/calculator?style=for-the-badge)
 
-
-![Calculadora](https://github.com/pedrocarvh/calculator/blob/main/images/Calculadora.png)
-
 > Um aplicativo simples de calculadora desenvolvido em JavaScript.
+![Calculadora](https://github.com/pedrocarvh/calculator/blob/main/images/Calculadora.png)
 
 ### Ajustes e melhorias
 
