@@ -1,69 +1,82 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=pedrocarvh" />
 
-# Calculadora Simples
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá,+Tudo+Bem?+👋;+Eu+sou+Pedro+Carvalho!;" />
+</h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/calculator?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/calculator?style=for-the-badge)
+<h3 align="center">Estudante de Engenharia de Software, apaixonado por tecnologia e inovação💻</h3>
 
-> Um aplicativo simples de calculadora desenvolvido em JavaScript.
-![Calculadora](https://github.com/pedrocarvh/calculator/blob/main/images/Calculadora.png)
+<br/>
 
-### Ajustes e melhorias
+<div align="center">
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+ 🔭 Atualmente estou trabalhando como Suporte de TI na **Funati**
 
-- [x]  **Implementar funções principais**
-- [x]  **Aplicar conceitos de DOM**
-- [x]  **Corrigir bugs de entrada de dados**
-- [ ]  **Melhorar a usabilidade em dispositivos móveis**
-- [ ]  **Adicionar estilos responsivos**
-- [ ]  **Adicionar suporte para operações avançadas**
-- [ ]  **Criar nova lógica para as operações**
+ 🌱 Estou estudando sobre **Desenvolvimento Web - FullStack**
 
-## 🚀 Linguagens e Tecnologias
+💬 Meu objetivo é me especializar como **Desenvolvedor Back-End**
 
-Este projeto foi desenvolvido utilizando as seguintes linguagens e tecnologias:
- 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+⚡ **Nerver Settle**
+
+ </div>
+
+<div align="center"> 
+  <a href="mailto:pedrocarvalho.snk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-carvalhoalmeida" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://pedrocarvh.github.io/OrdepOlavrac/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
-## 🚀 Acesso <Calculadora>
+ <hr/>
 
-Para acessar a Calculadora, basta seguir este link: [Calculator Web](https://pedrocarvh-calculator.netlify.app/)
+<h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,java,py" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-Certifique-se de ter um navegador web atualizado, como Google Chrome, Mozilla Firefox, ou Safari, para garantir uma experiência adequada.
+  <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,netlify" /><br>
+</div>
 
-Se encontrar algum problema de exibição ou funcionalidade, verifique se está utilizando a versão mais recente do navegador ou entre em contato conosco para obter suporte.
+<br/>
+<hr/>
 
+<div align="center">
+  <h2>🐍 Contribuições🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pedrocarvh/pedrocarvh/output/github-contribution-grid-snake.svg" />
 
-## 📫 Contribuindo para <Calculadora>
+  <br/><br/><br/>
+</div>
 
-Para contribuir com a Calculator, siga estas etapas:
+<hr/>
 
-1. Bifurque este [repositório](https://github.com/pedrocarvh/calculator).
-2. Crie um branch: `git checkout -b nome_branch`.
-3. Faça suas alterações e confirme-as: `git commit -m 'mensagem_commit'`.
-4. Envie para o branch original: `git push origin nome_branch`.
-5. Crie a solicitação de pull.
+<h2 align="center">⚡ Estatísticas ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pedrocarvh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=pedrocarvh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pedrocarvh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-Como alternativa, consulte a [documentação do GitHub](https://docs.github.com/pt/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) sobre como criar uma solicitação pull.
+<br/><br/>
 
-Agradecemos antecipadamente por suas contribuições!
+<hr/>
 
-## 🤝 Desenvolvido por
+<br/>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/pedrocarvh" title="Perfil do Pedro Carvalho no GitHub">
-        <img src="https://avatars.githubusercontent.com/u/74374314" width="100px;" alt="Foto do Pedro Carvalho no GitHub"/><br>
-        <sub>
-          <b>Pedro Carvalho</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+[![NEVER SETTLE](https://img.shields.io/badge/NEVER%20SETTLE-Em%20Breve-blue?style=for-the-badge&logo=appveyor)](https://seusite.com)
+</div>
+
+<br/>
