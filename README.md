@@ -24,7 +24,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ## 🚀 Linguagens e Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes linguagens e tecnologias:
-
+ 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
