@@ -37,11 +37,12 @@
 <h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=html,css,javascript" />
- <img src="https://skillicons.dev/icons?i=c,java,py" />
- <img src="https://skillicons.dev/icons?i=nodejs,firebase,express" />
- <img src="https://skillicons.dev/icons?i=git,github,bash" />
- <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,netlify" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=c,java,py" />
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,express" />
+<img src="https://skillicons.dev/icons?i=git,github,bash" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,react,nextjs" />
+
 </div>
 
 <br/>
