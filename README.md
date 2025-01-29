@@ -42,13 +42,16 @@
   <img src="https://skillicons.dev/icons?i=c,java,py,html,css,javascript,typescript" />
   
   🚀 **Frameworks & Bibliotecas:**  
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,express" />
   
   🗄 **Banco de Dados:**  
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
   
   🛠 **Ferramentas & Versionamento:**  
   <img src="https://skillicons.dev/icons?i=git,github,bash" />
+
+  🛠 **Outros:**  
+  <img src="https://skillicons.dev/icons?i=figma,windows,linux" />
 
 </div>
 
