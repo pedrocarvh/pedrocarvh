@@ -12,7 +12,7 @@
 
  🔭 Atualmente estou atuando como Gerente de TI no Telessaúde - AMAZONAS **Funati**
 
- 🌱 Minha área de interesse é em  - **Ciêmcias de Dados aplicada em saúde**
+ 🌱 Minha área de interesse é - **Ciências de Dados aplicada em saúde**
 
 💬 Meu objetivo é me especializar como **Ciêntista de Dados**
 
