@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá,+Tudo+Bem?+👋;+Eu+sou+Pedro+Carvalho!;" />
 </h1>
 
-<h3 align="center">Estudante de Engenharia de Software, apaixonado por tecnologia e inovação💻</h3>
+<h3 align="center">Engenheiro de Software, sempre buscando aprender mais sobre tecnologia e inovação💻</h3>
 
 <br/>
 
 <div align="center">
 
- 🔭 Atualmente estou trabalhando como Suporte de TI na **Funati**
+ 🔭 Atualmente estou atuando como Gerente de TI no Telessaúde - AMAZONAS **Funati**
 
- 🌱 Estou estudando sobre **Desenvolvimento Web - FullStack**
+ 🌱 Minha área de interesse é em  - **Ciêmcias de Dados aplicada em saúde**
 
-💬 Meu objetivo é me especializar como **Desenvolvedor Back-End**
+💬 Meu objetivo é me especializar como **Ciêntista de Dados**
 
 ⚡ **Nerver Settle**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
 <img src="https://skillicons.dev/icons?i=c,java,py" />
 <img src="https://skillicons.dev/icons?i=nodejs,firebase,express" />
 <img src="https://skillicons.dev/icons?i=git,github,bash" />
