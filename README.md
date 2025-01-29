@@ -69,13 +69,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pedrocarvh/pedrocarvh/output/github-contribution-grid-snake.svg" />
 </div>
 
----
-
-## 🚀 Projetos em Destaque
-
-🔹 [**Projeto 1**](#) - Breve descrição do projeto.  
-🔹 [**Projeto 2**](#) - Breve descrição do projeto.  
-🔹 [**Projeto 3**](#) - Breve descrição do projeto.  
 
 ---
 
