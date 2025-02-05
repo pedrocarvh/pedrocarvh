@@ -13,7 +13,7 @@
 🔹 **Atualmente:** Gerente de TI no **Telessaúde - Amazonas (Funati)**, atuando na implementação de soluções tecnológicas para a saúde digital e telemedicina.  
 🔹 **Área de interesse:** Ciência de Dados aplicada à saúde  
 🔹 **Objetivo:** Especialização em Ciência de Dados com foco na transformação digital na área médica  
-⚡ **Motto:** *Never Settle*  
+⚡ *Never Settle*  
 
 📫 **Entre em contato:**
 <div align="left"> 
