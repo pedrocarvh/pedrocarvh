@@ -13,7 +13,6 @@
 🔹 **Atualmente:** Gerente de Suporte e Tecnologia da Informação na **FUNATI** e **Consultor de TI** no **Núcleo de Telessaúde**.  
 🔹 **Atuação:** Implementação e suporte a soluções de **Saúde Digital**, **Telemedicina** e **Transformação Tecnológica**.  
 🔹 **Área de interesse:** **Ciência de Dados** e **NLP (Processamento de Linguagem Natural)** aplicados à saúde.  
-🔹 **Objetivo:** Aplicar **Ciência de Dados** e **NLP** para resolver problemas reais em saúde.  
 
 
 📫 **Entre em contato:**
