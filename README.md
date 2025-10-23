@@ -4,16 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá,+Tudo+Bem?+👋;+Eu+sou+Pedro+Carvalho!;" />
 </h1>
 
-<h3 align="center">💻 Engenheiro de Software | Apaixonado por Ciência de Dados e Saúde Digital 🚀</h3>
+<h3 align="center">💻 Engenheiro de Software e Pós-Graduando em Ciência de Dados (UEA) 🚀</h3>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-🔹 **Atualmente:** Gerente de TI no **Telessaúde - Amazonas (Funati)**, atuando na implementação de soluções tecnológicas para a saúde digital e telemedicina.  
-🔹 **Área de interesse:** Ciência de Dados aplicada à saúde  
-🔹 **Objetivo:** Especialização em Ciência de Dados com foco na transformação digital na área médica  
-⚡ *Never Settle*  
+🔹 **Atualmente:** Gerente de Suporte e Tecnologia da Informação na **FUNATI** e **Consultor de TI** no **Núcleo de Telessaúde**.  
+🔹 **Atuação:** Implementação e suporte a soluções de **Saúde Digital**, **Telemedicina** e **Transformação Tecnológica**.  
+🔹 **Área de interesse:** **Ciência de Dados** e **NLP (Processamento de Linguagem Natural)** aplicados à saúde.  
+🔹 **Objetivo:** Aplicar **Ciência de Dados** e **NLP** para resolver problemas reais em saúde.  
+
 
 📫 **Entre em contato:**
 <div align="left"> 
