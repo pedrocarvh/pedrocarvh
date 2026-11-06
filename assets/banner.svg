@@ -49,11 +49,11 @@
     <!-- chips -->
     <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600">
       <rect x="64" y="204" width="156" height="30" rx="15" fill="#14b8a6" fill-opacity="0.14" stroke="#14b8a6" stroke-opacity="0.6"/>
-      <text x="142" y="224" text-anchor="middle" fill="#99f6e4">FUNATI · Manaus</text>
+      <text x="142" y="224" text-anchor="middle" fill="#99f6e4">PROASPI · FUNATI</text>
       <rect x="232" y="204" width="190" height="30" rx="15" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.55"/>
       <text x="327" y="224" text-anchor="middle" fill="#a5f3fc">Núcleo de Telessaúde</text>
       <rect x="434" y="204" width="150" height="30" rx="15" fill="#818cf8" fill-opacity="0.14" stroke="#818cf8" stroke-opacity="0.55"/>
-      <text x="509" y="224" text-anchor="middle" fill="#c7d2fe">Pós · UEA</text>
+      <text x="509" y="224" text-anchor="middle" fill="#c7d2fe">Especialista · UEA</text>
     </g>
   </g>
   <rect x="0.75" y="0.75" width="1198.5" height="348.5" rx="17.5" fill="none" stroke="#14b8a6" stroke-opacity="0.35"/>

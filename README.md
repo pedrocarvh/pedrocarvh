@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  Coloco <b>telemedicina e saúde digital para funcionar de verdade</b>, longe dos grandes centros.<br>
-  Gerencio Suporte e TI na <b>FUNATI</b> e atuo como consultor de TI no <b>Núcleo de Telessaúde</b>, em Manaus.
+  Moro em Manaus e trabalho com TI na área da saúde.<br>
+  Sou coordenador de TI da PROASPI, na FUNATI, e consultor de TI no Núcleo de Telessaúde.<br>
+  Especialista em Ciência de Dados pela UEA, uso o GitHub para praticar dados e NLP.
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
