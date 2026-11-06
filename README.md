@@ -1,43 +1,75 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Pedro Carvalho: eletrocardiograma animado sobre papel milimetrado" width="100%">
-</p>
+<img align="right" src="https://komarev.com/ghpvc/?username=pedrocarvh" />
 
-Gerencio Suporte e Tecnologia da Informação na **FUNATI** e sou consultor de TI no **Núcleo de Telessaúde**, em Manaus. No dia a dia, coloco telemedicina e saúde digital para funcionar de verdade, longe dos grandes centros.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá,+Tudo+Bem?+👋;+Eu+sou+Pedro+Carvalho!;" />
+</h1>
 
-Estou fazendo pós-graduação em Ciência de Dados na UEA, com foco em **processamento de linguagem natural aplicado à saúde**: texto clínico, classificação e o que dá para aprender com dados de atendimento à distância.
+<h3 align="center">💻 Engenheiro de Software e Pós-Graduando em Ciência de Dados (UEA) 🚀</h3>
 
-<details>
-<summary><b>Read in English</b></summary>
-<br>
+---
 
-I manage Support and Information Technology at **FUNATI** and work as an IT consultant for the **Telehealth Center** in Manaus, Brazil. My day-to-day is making telemedicine and digital health actually work, far from the big urban centers.
+## 👨‍💻 Sobre Mim
 
-I'm pursuing a postgraduate degree in Data Science at UEA, focused on **natural language processing applied to healthcare**: clinical text, classification, and what can be learned from remote-care data.
+🔹 **Atualmente:** Gerente de Suporte e Tecnologia da Informação na **FUNATI** e **Consultor de TI** no **Núcleo de Telessaúde**.  
+🔹 **Atuação:** Implementação e suporte a soluções de **Saúde Digital**, **Telemedicina** e **Transformação Tecnológica**.  
+🔹 **Área de interesse:** **Ciência de Dados** e **NLP (Processamento de Linguagem Natural)** aplicados à saúde.  
 
-</details>
 
-<p align="center"><img src="assets/divider.svg" alt="" width="70%"></p>
+📫 **Entre em contato:**
+<div align="left"> 
+  <a href="mailto:pedrocarvalho.snk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-carvalhoalmeida" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://pedrocarvh.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-### Projetos
+---
 
-| Projeto | O que é |
-|---|---|
-| [**sms-detector-ml**](https://github.com/pedrocarvh/sms-detector-ml) | Classificador de spam em SMS com Python, scikit-learn, SMOTE e Naive Bayes. |
-| [**Text-Preprocessing-NLTK**](https://github.com/pedrocarvh/Text-Preprocessing-NLTK) | Mini-projeto de PLN com NLTK: tokenização, limpeza e análise básica de texto. |
+## 🛠️ Tecnologias & Ferramentas
 
-### Com o que trabalho
+💻 **Linguagens:**  
+<img src="https://skillicons.dev/icons?i=c,java,py,html,css,javascript,typescript" />  
 
-| | |
-|---|---|
-| **Dados e NLP** | Python, pandas, scikit-learn, NLTK, Jupyter |
-| **Web** | JavaScript, TypeScript, React, Next.js, Node.js, Express |
-| **Bancos de dados** | MySQL, PostgreSQL, MongoDB, Firebase |
-| **Ferramentas** | Git, GitHub, Bash, Linux (Ubuntu), Figma |
+🚀 **Frameworks & Bibliotecas:**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />  
 
-<p align="center"><img src="assets/divider.svg" alt="" width="70%"></p>
+🗄 **Banco de Dados:**  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />  
 
-### Contato
+🛠 **Ferramentas & Versionamento:**  
+<img src="https://skillicons.dev/icons?i=git,github,bash" />  
 
-[E-mail](mailto:pedrocarvalho.snk@gmail.com) · [LinkedIn](https://linkedin.com/in/pedro-carvalhoalmeida) · [Portfólio](https://pedrocarvh.netlify.app/)
+🎨 **Ambientes & Design:**  
+<img src="https://skillicons.dev/icons?i=figma,windows,ubuntu" />  
 
-<sub>Nunca se acomode.</sub>
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pedrocarvh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=pedrocarvh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
+  <br/>
+
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+---
+
+## 🐍 Atividades & Contribuições
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pedrocarvh/pedrocarvh/output/github-contribution-grid-snake.svg" />
+</div>
+
+
+---
+
+⭐ Se gostou do meu perfil, me siga e contribua para o crescimento da comunidade! 🚀
