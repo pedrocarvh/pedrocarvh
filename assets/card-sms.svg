@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="176" viewBox="0 0 580 176" role="img" aria-label="sms-detector-ml">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14b8a6"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+    <linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.06"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="580" height="176" rx="16" fill="#0d1526"/>
+  <rect width="580" height="176" rx="16" fill="url(#s)"/>
+  <rect x="1" y="1" width="578" height="174" rx="15" fill="none" stroke="url(#b)" stroke-opacity="0.65" stroke-width="1.4"/>
+  <g transform="translate(30,26)" fill="none" stroke="#14b8a6" stroke-width="1.8" stroke-linecap="round"><path d="M0 4a3 3 0 013-3h12a3 3 0 013 3v13a3 3 0 01-3 3H3a3 3 0 01-3-3z M5 6h8 M5 10h8 M5 14h5" transform="scale(1)"/></g>
+  <text x="58" y="42" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="700" fill="#f8fafc">sms-detector-ml</text>
+  <text x="30" y="82" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#94a3b8">Classificador de spam em SMS com Python,</text><text x="30" y="103" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#94a3b8">scikit-learn, SMOTE e Naive Bayes.</text>
+  <rect x="30" y="124" width="120" height="26" rx="13" fill="#14b8a6" fill-opacity="0.13" stroke="#14b8a6" stroke-opacity="0.5"/><text x="90" y="141.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#e2e8f0">scikit-learn</text><rect x="158.39999999999998" y="124" width="63" height="26" rx="13" fill="#14b8a6" fill-opacity="0.13" stroke="#14b8a6" stroke-opacity="0.5"/><text x="190" y="141.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#e2e8f0">SMOTE</text><rect x="229.39999999999998" y="124" width="112" height="26" rx="13" fill="#14b8a6" fill-opacity="0.13" stroke="#14b8a6" stroke-opacity="0.5"/><text x="286" y="141.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#e2e8f0">Naive Bayes</text>
+  <circle cx="470" cy="38" r="6" fill="#3572A5"/>
+  <text x="484" y="43" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#cbd5e1">Python</text>
+  <text x="550" y="43" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#14b8a6" opacity="0">.</text>
+</svg>
