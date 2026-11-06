@@ -42,7 +42,7 @@
     </circle>
 
     <!-- Texto -->
-    <text x="64" y="72" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="15" fill="#5eead4" letter-spacing="3">&lt;/&gt; ENGENHEIRO DE SOFTWARE</text>
+    <text x="64" y="72" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="15" fill="#5eead4" letter-spacing="3">&lt;/&gt; COORDENADOR DE TI</text>
     <text x="62" y="142" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="68" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Pedro Carvalho</text>
     <text x="64" y="184" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" fill="#cbd5e1">Saúde Digital  ·  Ciência de Dados  ·  NLP aplicado à saúde</text>
 
