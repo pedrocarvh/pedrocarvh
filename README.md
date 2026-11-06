@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Pedro Carvalho: Saúde Digital, Ciência de Dados e NLP" width="100%">
+  <img src="assets/banner.svg" alt="Pedro Carvalho, coordenador de TI. Saúde Digital, Ciência de Dados e NLP aplicado à saúde" width="100%">
 </p>
 
 <p align="center">
-  <a href="mailto:pedrocarvalho.snk@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/pedro-carvalhoalmeida"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://pedrocarvh.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-14b8a6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pedrocarvh&label=Visitas&color=0e7490&style=for-the-badge" alt="Visitas" />
+  <a href="mailto:pedrocarvalho.snk@gmail.com"><img src="assets/botao-gmail.svg" alt="E-mail" height="46" /></a>
+  <a href="https://linkedin.com/in/pedro-carvalhoalmeida"><img src="assets/botao-linkedin.svg" alt="LinkedIn" height="46" /></a>
+  <a href="https://pedrocarvh.netlify.app/"><img src="assets/botao-portfolio.svg" alt="Portfólio" height="46" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pedrocarvh&label=Visitas&color=c98a12&style=for-the-badge" alt="Visitas" />
 </p>
 
 <p align="center">
-  Moro em Manaus e trabalho com TI na área da saúde.<br>
-  Sou coordenador de TI da PROASPI, na FUNATI, e consultor de TI no Núcleo de Telessaúde.<br>
-  Especialista em Ciência de Dados pela UEA, uso o GitHub para praticar dados e NLP.
+  <img src="assets/sobre.svg" alt="Sobre mim: moro em Manaus e trabalho com TI na área da saúde. Sou coordenador de TI da PROASPI, na FUNATI, e consultor de TI no Núcleo de Telessaúde. Especialista em Ciência de Dados pela UEA, uso o GitHub para praticar dados e NLP." width="100%">
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
@@ -30,39 +28,18 @@
 
 <h2 align="center"><img src="assets/titulo-tropas.svg" alt="Tropas e Ferramentas" width="75%"></h2>
 
-<table align="center">
-  <tr>
-    <td><b>💻 Linguagens</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,js,ts,java,c,html,css&theme=dark" alt="Linguagens" /></td>
-  </tr>
-  <tr>
-    <td><b>📊 Dados &amp; NLP</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,pandas,sklearn,jupyter&theme=dark" alt="Dados e NLP" /></td>
-  </tr>
-  <tr>
-    <td><b>🚀 Web</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" alt="Web" /></td>
-  </tr>
-  <tr>
-    <td><b>🗄 Bancos de dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" alt="Bancos de dados" /></td>
-  </tr>
-  <tr>
-    <td><b>🛠 Ferramentas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,bash,linux,ubuntu,windows,figma&theme=dark" alt="Ferramentas" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/tropas.svg" alt="Linguagens: Python, JavaScript, TypeScript, Java, C, HTML, CSS. Dados e NLP: Python, Pandas, scikit-learn, Jupyter. Web: React, Next.js, Node.js, Express. Bancos de dados: MySQL, PostgreSQL, MongoDB, Firebase. Ferramentas: Git, GitHub, Bash, Linux, Ubuntu, Windows, Figma." width="100%">
+</p>
 
 <h2 align="center"><img src="assets/titulo-trofeus.svg" alt="Troféus e Estatísticas" width="75%"></h2>
 
+<p align="center">
+  <img src="assets/estatisticas.svg" alt="Estatísticas do GitHub: 13 repositórios públicos, 975 contribuições no ano, 19 seguidores, no GitHub desde 2021. Linguagem mais usada: Python, com 88%." width="100%">
+</p>
+
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pedrocarvh&count_private=true&background=1b2a52&border=f9c846&ring=f9c846&fire=d946ef&currStreakNum=ffffff&sideNums=fff3a6&currStreakLabel=f9c846&sideLabels=d7e0f2&dates=94a3b8&border_radius=12&hide_border=false" alt="Streak" />
-  <br/><br/>
-  <img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas" />
-  <img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" />
-  <br/>
-  <img width="49%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" />
-  <img width="49%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horário mais produtivo" />
 </div>
 
 <h2 align="center"><img src="assets/titulo-atividade.svg" alt="Atividade e Contribuições" width="75%"></h2>
@@ -73,4 +50,4 @@
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
 <p align="center"><sub>Nunca se acomode, sempre suba de nível! ⭐ Se gostou do perfil, me siga!</sub></p>
-<p align="center"><sub>Conteúdo de fã, sem fins comerciais. Imagens do Clash of Clans: © Supercell, via Fan Kit oficial. Este perfil não é afiliado nem endossado pela Supercell.</sub></p>
+<p align="center"><sub>Conteúdo de fã, sem fins comerciais. Imagens e fonte do Clash of Clans: © Supercell, via Fan Kit oficial. Este perfil não é afiliado nem endossado pela Supercell.</sub></p>
