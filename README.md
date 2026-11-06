@@ -57,6 +57,12 @@
 
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pedrocarvh&count_private=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Streak" />
+  <br/><br/>
+  <img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas" />
+  <img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" />
+  <br/>
+  <img width="49%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" />
+  <img width="49%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horário mais produtivo" />
 </div>
 
 ## 🐍 Atividade & Contribuições
