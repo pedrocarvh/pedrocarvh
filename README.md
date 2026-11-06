@@ -21,14 +21,14 @@
   <img src="assets/pilares.svg" alt="Saúde Digital, Dados e NLP, Engenharia" width="100%">
 </p>
 
-## 🚀 Projetos em destaque
+## 🏰 Construções em destaque
 
 <p align="center">
   <a href="https://github.com/pedrocarvh/sms-detector-ml"><img src="assets/card-sms.svg" alt="sms-detector-ml" width="49%"></a>
   <a href="https://github.com/pedrocarvh/Text-Preprocessing-NLTK"><img src="assets/card-nltk.svg" alt="Text-Preprocessing-NLTK" width="49%"></a>
 </p>
 
-## 🛠️ Tecnologias & Ferramentas
+## ⚔️ Tropas & Ferramentas
 
 <table align="center">
   <tr>
@@ -53,10 +53,10 @@
   </tr>
 </table>
 
-## 📊 Estatísticas GitHub
+## 🏆 Troféus & Estatísticas
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pedrocarvh&count_private=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Streak" />
+  <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pedrocarvh&count_private=true&background=1b2a52&border=f9c846&ring=f9c846&fire=d946ef&currStreakNum=ffffff&sideNums=fff3a6&currStreakLabel=f9c846&sideLabels=d7e0f2&dates=94a3b8&border_radius=12&hide_border=false" alt="Streak" />
   <br/><br/>
   <img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas" />
   <img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" />
@@ -72,4 +72,4 @@
 </div>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
-<p align="center"><sub>Nunca se acomode. ⭐ Se gostou do perfil, me siga!</sub></p>
+<p align="center"><sub>Nunca se acomode, sempre suba de nível! ⭐ Se gostou do perfil, me siga!</sub></p>
