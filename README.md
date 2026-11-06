@@ -73,4 +73,4 @@
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
 <p align="center"><sub>Nunca se acomode, sempre suba de nível! ⭐ Se gostou do perfil, me siga!</sub></p>
-<p align="center"><sub>Conteúdo de fã, sem fins comerciais. Inspirado em Clash of Clans, não é afiliado nem endossado pela Supercell.</sub></p>
+<p align="center"><sub>Conteúdo de fã, sem fins comerciais. Imagens do Clash of Clans: © Supercell, via Fan Kit oficial. Este perfil não é afiliado nem endossado pela Supercell.</sub></p>
