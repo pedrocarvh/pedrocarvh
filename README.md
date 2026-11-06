@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  Coloco <b>telemedicina e saúde digital para funcionar de verdade</b>, longe dos grandes centros.<br>
-  Gerencio Suporte e TI na <b>FUNATI</b> e atuo como consultor de TI no <b>Núcleo de Telessaúde</b>, em Manaus.<br>
-  Especialista em <b>Ciência de Dados</b>.
+  Sou o Pedro, de Manaus. Coordeno a TI da <b>PROASPI</b>, na FUNATI, e presto consultoria de TI ao <b>Núcleo de Telessaúde</b>, apoiando serviços de telediagnóstico na Amazônia.<br>
+  Sou <b>especialista em Ciência de Dados</b> pela UEA. Aqui ficam meus projetos em Python: detector de spam em SMS, fake news em português, análise de sentimento e previsão de tempo de maratona.
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
