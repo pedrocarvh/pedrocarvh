@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76" role="img" aria-label="Troféus &amp; Estatísticas">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff3a6"/><stop offset="0.45" stop-color="#f9c846"/><stop offset="1" stop-color="#c98a12"/></linearGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8f5a2b"/><stop offset="1" stop-color="#4b2a12"/></linearGradient>
+    <pattern id="grain" width="120" height="8" patternUnits="userSpaceOnUse"><path d="M0 4 Q30 1 60 4 T120 4" fill="none" stroke="#2f1a0a" stroke-opacity="0.35" stroke-width="1.2"/></pattern>
+    <filter id="sh" x="-5%" y="-20%" width="110%" height="150%"><feDropShadow dx="0" dy="3" stdDeviation="2.5" flood-color="#050b1c" flood-opacity="0.55"/></filter>
+  </defs>
+  <g filter="url(#sh)">
+    <rect x="12" y="12" width="876" height="52" rx="12" fill="url(#wood)" stroke="url(#gold)" stroke-width="4"/>
+    <rect x="16" y="16" width="868" height="44" rx="9" fill="url(#grain)"/>
+    <circle cx="30" cy="38" r="4" fill="url(#gold)" stroke="#7a4d08"/><circle cx="870" cy="38" r="4" fill="url(#gold)" stroke="#7a4d08"/>
+  </g>
+  <text x="104" y="50" font-family="Impact,'Arial Black','Segoe UI',sans-serif" font-size="30" fill="#ffffff" stroke="#2a1405" stroke-width="6" paint-order="stroke" stroke-linejoin="round" letter-spacing="0.8">Troféus &amp; Estatísticas</text>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2.6s" repeatCount="indefinite"/>
+    <image href="data:image/webp;base64,UklGRmIFAABXRUJQVlA4WAoAAAAQAAAAiwAAiwAAQUxQSNcBAAABkETbtmlH5/mXbdvVs+2WXdWybdu2jZ5tu2UzTr79/7v3lOvdN8ZJM4mICYBs/2dJXmk5avzk6bPmLVy0aNGihXNmTps4dlhjmShtWQwtjMxUycmlAOhrTbQ0vlgFUClxXLg+qtpWhhabaxovu1+GEGlzDCMcref4Mh8hUC+AYiPzgNKcz7kYtk8nxNjFUTDfY5Chb2UonO92ULGIoQ35Riqe24K9p+KEaYvrVMyO2iG2joq+MTuEh1JR22+HaGMqCn5h4nhCcSqkW6Y485lKBayNiotuAjK722EQHWXTuSjurESHdjcmKv7YoAPmhUWFlgChtb2ivHUpUS9HxISuapRAd48YTw8gVbsTEBG4qdECTd2mdXFXYyBWucGtY0fy0SIPSYyjwPD3xpQoU6MoOK0DIV2jiIgxT9CKoIcjIn4uSEdD/2/OAy73f3Gn81EUEdmTnHQYx3yInnOF5rlT+b/xZM/Ezh9N5MndgdBCZ5MzThYEZbo/gf2LmeAfKkPnd56E8TIloA+emgMAoJvnW/Bv/u/O1gAADVa1k4Dmei/T0vhvLNn5uCpQX/SoNyGMGEzwbc4P9KtDklJSk9O+9FAgU1jtnD9wtDRkFtWB3WTI9n/W5gEAVlA4IGQDAAAwFACdASqMAIwAPkUijkWioiEQ2gRQKAREtLdwuqNxJEi5Y/lsfT/I8IMp2yFxAdxRxLRZH6E81n0R/3vcD/mX9R/4PqweyT9VfZI/WX//hjyvNWmvA8tNeB5aa8DRq+Bc/TzdDQmpjyfoAJR6gOuMlrS/Ks1L5QZmzVEaL8GkBf0XEDmL0mDro0UNBaZ6l3YmUR+MM0H4Vuw6jB0aOUB1VprwPLTXgeWdAAD+/9hkAaPzPD4VHbMM42PdP3y7/61XTrxS+a0v/HVpXGLk8E5Ci2SF3NfSUXUQp6nguePAr/DfUU3ctYUDdz2Hu+eTM2UVd/smSK9/uHA2w/L45nbWn5rD5+wmIpjG9w47In7hPPqUBd65FKUnqgroaQQXoC3mBrLkrj8UjI706PwROQFvFx39kRGelF9bmOERrw/YuNX8XViaN91UVHf/7EujlVFxcI4B1zyk7LDPCcXR7LL2vZQHuZUHHJ3X3dFm1RrOCLS4w6K3CjntkJnx/5Sc3PEDh3wv7+LNXSB/jhcVaIXyiuXqMrmGumTfjZrlck2ZiDmJLRye6u6VOlmJFzAn+nkVLlX38ip3eXwMEwjknVXRU0jfyRBYfajl9BpOdfncUTcysShOUcGFfJV7dQOdJYLqEjS4lt3T/7H0VY12NLNdK8vttztj2LQ/gyX/BW5I5PDdLZoe2xfT3r5DXJ4mj7IUogr9JR1cbaMKCgqnLV9esRYnj6gnYFymqhG4nIdROId9/HTjfr0H42O8i+njhl/7YzQdZXkJcyGNFIAxnUPw9J099FRHcYsZb9Tc63f/SScTL+rRL9cG5bf3vb+dqy744cRICGuFHUH/zxOdGNqLKn92FJVavvXYyr2/Tm1YT/TQg84Z0ZjKJnSB2T27fP8sDxShtph6vzT3f2t791S3fOZrNhFa1zMJQkLWHfyzRKPYY8BGMiPkZ07DhJs1BMeXceKCkT7wixMr8SDrT5veimub1k5GxOM0quv85Q4MDBuciGE0dun0/FelsqNOTC+Kp3VYI2fKzD3RdjfmZlkxXtpmdv0tU3bbLOpMK2B+p588abTLZ9dsX+mxT3mmvcjJRbMKlVT5y6wMe9IcuLimfd3/x53sa88XnrKz/hxfT1mg2CzkAxHOocLQE8iDXPjgAAAA" x="8" y="-22" width="112" height="112"/>
+  </g>
+</svg>

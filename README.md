@@ -21,14 +21,14 @@
   <img src="assets/pilares.svg" alt="Saúde Digital, Dados e NLP, Engenharia" width="100%">
 </p>
 
-## 🏰 Construções em destaque
+<h2 align="center"><img src="assets/titulo-construcoes.svg" alt="Construções em destaque" width="75%"></h2>
 
 <p align="center">
   <a href="https://github.com/pedrocarvh/sms-detector-ml"><img src="assets/card-sms.svg" alt="sms-detector-ml" width="49%"></a>
   <a href="https://github.com/pedrocarvh/Text-Preprocessing-NLTK"><img src="assets/card-nltk.svg" alt="Text-Preprocessing-NLTK" width="49%"></a>
 </p>
 
-## ⚔️ Tropas & Ferramentas
+<h2 align="center"><img src="assets/titulo-tropas.svg" alt="Tropas e Ferramentas" width="75%"></h2>
 
 <table align="center">
   <tr>
@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-## 🏆 Troféus & Estatísticas
+<h2 align="center"><img src="assets/titulo-trofeus.svg" alt="Troféus e Estatísticas" width="75%"></h2>
 
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pedrocarvh&count_private=true&background=1b2a52&border=f9c846&ring=f9c846&fire=d946ef&currStreakNum=ffffff&sideNums=fff3a6&currStreakLabel=f9c846&sideLabels=d7e0f2&dates=94a3b8&border_radius=12&hide_border=false" alt="Streak" />
@@ -65,7 +65,7 @@
   <img width="49%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horário mais produtivo" />
 </div>
 
-## 🐍 Atividade & Contribuições
+<h2 align="center"><img src="assets/titulo-atividade.svg" alt="Atividade e Contribuições" width="75%"></h2>
 
 <div align="center">
   <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/pedrocarvh/pedrocarvh/output/github-contribution-grid-snake.svg" />
